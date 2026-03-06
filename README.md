@@ -59,6 +59,6 @@ domain: Entidades JPA, Repositorios y DTOs (Data Transfer Objects).
 infra: Configuraciones de Seguridad, Filtros JWT y Tratamiento de Errores.
 
 👨‍💻 Autor
-Diego Vilchez Estudiante de Ingeniería de Sistemas e Informática – Universidad Tecnológica del Perú (UTP, Sede Piura).
+Diego Vilchez Estudiante de Ingeniería de Sistemas e Informática – Universidad Tecnológica del Perú 
 
 Apasionado por el desarrollo Backend y la ciberseguridad.
